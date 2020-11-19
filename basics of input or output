@@ -1,0 +1,14 @@
+#include <stdio.h>
+
+
+int main()
+{
+	int N=5,a=0;
+	char s[15];
+	scanf("%d %s",&N,&s);
+    a=N*2;
+	printf("%d \n",a);
+	printf("%s",s);
+	return 0;
+
+}
