@@ -1,1 +1,0 @@
-# basic-programming-hackerearth
